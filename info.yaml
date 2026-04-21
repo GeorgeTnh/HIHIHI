@@ -26,11 +26,11 @@ pinout:
   ui[7]: ""
 
   # Outputs
-  uo[0]: "EXTOUT0"
+  uo[0]: "OUT0"
   uo[1]: ""
   uo[2]: ""
   uo[3]: ""
-  uo[4]: "EXTOUT4"
+  uo[4]: "OUT4"
   uo[5]: ""
   uo[6]: ""
   uo[7]: ""
